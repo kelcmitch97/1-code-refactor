@@ -26,6 +26,7 @@ The following image demonstrates what the web application's appearance and funct
  
 ![Mock up of web application's appearance and functionality](./develop/assets/images/mockup.png)
 
+
 # Deployment
 
 

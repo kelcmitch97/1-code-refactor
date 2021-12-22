@@ -24,7 +24,7 @@ for search engines.
 
 The following image demonstrates what the web application's appearance and functionality should look like:
  
-![Mock up of web application's appearance and functionality](./develop/assets/images/mockup.png)
+![Mock up of web application's appearance and functionality](Develop/assets/images/mockup.png)
 
 
 # Deployment
